@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/RunOrdinal",
   "VITE_SEO_SITE_NAME": "Without Dex",
   "VITE_SEO_SITE_DESCRIPTION": "WITHOUT is a decentralized DEX on Solana mixing finance and degen culture. Trade tokens with 3% fees — reduced or waived when holding $WITHOUT. Simple, fun, and uncompromising: WITHOUT rules, WITH us.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/without-0544/",
+  "VITE_SEO_SITE_URL": "https://withoutdex.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@RunOrdinal",
